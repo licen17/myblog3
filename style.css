@@ -55,44 +55,7 @@
     font-family: 'Mali', cursive;
     
 }
-
-.sidenav {
-    height: 100%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    padding-top: 20px;
-    background-color: lightblue;
-    font-family: 'Patrick Hand', cursive;
-    font-family: 'Caveat Brush', cursive;
-    font-family: 'Reenie Beanie', cursive;
-    font-family: 'Mali', cursive;
-  }
   
-  .sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    display: block;
-    color: black; 
-  }
-  
-  .sidenav a:hover {
-    color: lightgreen;
-  }
-  
-  .main {
-    margin-left: 160px;
-    font-size: 28px; 
-    padding: 0px 10px;
-  }
-  
-  @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 10px;}
-    .sidenav a {font-size: 5px;}
-  }
 
   ul.timeline {
     list-style-type: none;
