@@ -42,6 +42,15 @@
     color: white;
   }
 
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
 
 .profile-img{
     height:300px;
